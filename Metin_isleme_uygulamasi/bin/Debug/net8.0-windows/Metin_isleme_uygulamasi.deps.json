@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Metin_isleme_uygulamasi/1.0.0": {
+        "runtime": {
+          "Metin_isleme_uygulamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metin_isleme_uygulamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
